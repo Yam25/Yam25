@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on the projects that focuses on web development, Python projects.
-- 📫 How to reach me @yaminiiyengar10@gmail.com
+- 📫 How to reach me yaminiiyengar10@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i spend my time free time sleeping, painting or watching movies/series.
 
