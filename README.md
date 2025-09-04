@@ -2,9 +2,9 @@
 
 👀 I’m passionate about programming and development.
 
-🌱 Currently, I’m working on Python projects involving AI.
+🌱 Currently, I’m working as Python Developer on Python-AI projects.
 
-💞️ I’m open to collaborating on frontend web development and Python projects.
+💞️ I’m open to collaborating on Python projects, GenAI projects.
 
 📫 Feel free to reach out to me at: yaminiiyengar10@gmail.com
 
